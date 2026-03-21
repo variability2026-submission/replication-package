@@ -1,0 +1,9 @@
+object,po,pi,grad,MAGI,AGI,ref,pRef,nRef
+EITC,1,1,1,0,1,1,0,0
+CTC,1,0,1,1,0,0,1,0
+AOTC,1,0,1,1,0,0,1,0
+LifetimeLC,1,0,1,1,0,0,0,1
+StudentLn,1,0,1,1,0,0,0,0
+IRA,1,0,1,1,0,0,0,0
+RothIRA,1,0,1,1,0,0,0,0
+RentalAllow,1,0,1,1,0,0,0,0

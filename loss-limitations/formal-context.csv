@@ -1,0 +1,7 @@
+object,basis,atRsk,pasLm,carry,suspd,pThru
+partner,1,1,1,1,1,1
+scorp,1,1,1,1,1,1
+rental-act,0,0,1,1,1,0
+rental-pas,0,0,1,1,1,0
+sched-c,0,1,0,0,0,0
+capital,0,0,0,1,0,0

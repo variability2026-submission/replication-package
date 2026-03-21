@@ -1,0 +1,8 @@
+object,cid-arg,cli-idf,env-wrt,ext-neg,fwd-pth,prmless,path-arg,rev-pth,ses-trm
+EHLO,1,1,0,1,0,0,0,0,0
+HELO,1,1,0,0,0,0,0,0,0
+MAIL,0,0,1,0,0,0,1,1,0
+RCPT,0,0,1,0,1,0,1,0,0
+DATA,0,0,0,0,0,1,0,0,0
+RSET,0,0,0,0,0,1,0,0,0
+QUIT,0,0,0,0,0,1,0,0,1

@@ -1,0 +1,7 @@
+object,837P,837I,837D,facility,admit,refer,proc,tooth
+office,1,0,0,0,0,0,1,0
+surgery,1,0,0,0,0,1,1,0
+inpatient,0,1,0,1,1,1,1,0
+emergency,0,1,0,1,0,0,1,0
+dental,0,0,1,0,0,0,1,1
+dme,1,0,0,0,0,0,0,0
